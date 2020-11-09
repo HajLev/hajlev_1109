@@ -30,15 +30,7 @@ namespace hajlev_1109
             }
         }
 
-        private int _eletkor;
-        public int Eletkor {
-            set {
-                if (value )
-            }
-            get {
-
-            }
-        }
+        public int _eletkor;
 
 
         private int x = 0;
